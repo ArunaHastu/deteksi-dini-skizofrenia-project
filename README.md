@@ -4,4 +4,5 @@ Machine Learning - [(https://deteksi-dini-skizofrenia-project.streamlit.app/)](h
 
 Aplikasi web berbasis Machine Learning ini berfungsi sebagai alat skrining awal risiko skizofrenia.
 
-Aplikasi menganalisis 14 faktor klinis dan psikometrik (termasuk skor gejala PANSS, GAF Score, dan riwayat pasien) menggunakan model Random Forest dan Logistic Regression untuk memberikan probabilitas prediksi risiko.
+Aplikasi menganalisis 14 faktor klinis dan psikometrik (termasuk skor gejala PANSS, GAF Score, dan riwayat pasien) menggunakan model Random Forest untuk memberikan probabilitas prediksi risiko.
+
