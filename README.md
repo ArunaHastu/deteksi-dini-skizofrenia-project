@@ -1,6 +1,6 @@
 ARUNA HASTU RASENDRIYA - 2702321270 FAVIAN JUNNANDA ZAHRI - 2702315753 MUHAMMAD JUNDI ARFA SATRIATAMA - 2702286772 
 
-Machine Learning - [https://projectmlskizo.streamlit.app/](https://deteksi-dini-skizofrenia-project.streamlit.app/)
+Machine Learning - [[https://projectmlskizo.streamlit.app/](https://deteksi-dini-skizofrenia-project.streamlit.app/)](https://deteksi-dini-skizofrenia-project.streamlit.app/)
 
 Aplikasi web berbasis Machine Learning ini berfungsi sebagai alat skrining awal risiko skizofrenia.
 
